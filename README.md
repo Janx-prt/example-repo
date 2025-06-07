@@ -24,6 +24,11 @@
 - 🔁 **Replayable** with different outcomes based on your choices  
 - 📜 **Rich, atmospheric storytelling** inspired by classic detective tales  
 
+
+### 🔧 Contributors
+| Janke Pretorius | [@Janx-prt](https://github.com/Janx-prt) | Game Designer & Developer | [janx.pretorius@gmail.com](mailto:janx.pretorius@gmail.com) |
+ example-repo
+
 ---
 
 ## 💻 How to Play
@@ -38,6 +43,3 @@ git clone https://github.com/Janx-prt/ashwood-mystery.git
 cd ashwood-mystery
 python ashwood_mystery.py
 
-### 🔧 Contributors
-| Janke Pretorius | [@Janx-prt](https://github.com/Janx-prt) | Game Designer & Developer | [janx.pretorius@gmail.com](mailto:janx.pretorius@gmail.com) |
- example-repo
